@@ -1,0 +1,29 @@
+.valentin{
+    display: flex;
+
+    img{
+        width: 470px;
+        margin-left: 50px;
+    }
+    span{
+        font-size: 20px;
+    }
+    h4{
+       color: rgb(92, 89, 89);
+       font-weight:bold;
+    }
+    ul{
+        margin-left: -35px;
+        i{
+            font-size: 25px;
+            margin-top: 5px;
+        }
+        li{
+            list-style: none;
+            margin-top: 10px;
+        }
+    }
+    span{
+        font-size: 20px;
+    }
+}

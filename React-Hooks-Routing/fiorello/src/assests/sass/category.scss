@@ -1,0 +1,39 @@
+.categories{
+    display: flex;
+    .filter{
+     margin-top: 55px;
+     margin-left:520px;
+    }
+     ul{
+         display: flex;
+         list-style: none;
+         margin-top: 55px;
+         li{
+             margin-left: 34px;
+         }
+     }
+ }
+ .images{
+     display: flex;
+     flex-wrap: wrap;
+     margin-left: 50px;
+     p{
+         margin-left: 100px;
+     }
+     button{
+         display: none;
+     }
+      &:hover button{
+         display: block;
+        margin-left: 100px;
+     }
+     img{
+         width: 300px;
+        margin-left: 5px;
+        margin-top: 5px;
+         height: 350px;
+     }
+ }
+ 
+ 
+ 

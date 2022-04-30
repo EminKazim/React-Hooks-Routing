@@ -1,0 +1,38 @@
+.valentin {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.valentin img {
+  width: 470px;
+  margin-left: 50px;
+}
+
+.valentin span {
+  font-size: 20px;
+}
+
+.valentin h4 {
+  color: #5c5959;
+  font-weight: bold;
+}
+
+.valentin ul {
+  margin-left: -35px;
+}
+
+.valentin ul i {
+  font-size: 25px;
+  margin-top: 5px;
+}
+
+.valentin ul li {
+  list-style: none;
+  margin-top: 10px;
+}
+
+.valentin span {
+  font-size: 20px;
+}
+/*# sourceMappingURL=valentin.css.map */
